@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Code Igniter SMKI Utama 2016</title>
+	<title>CI SMKI Utama 2016</title>
 </head>
-<body>
-<h1> <?php echo $title ?></h1>
+<body style="padding:10px 100px">
+<h1> <?php echo $judul ?></h1>

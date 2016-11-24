@@ -3,7 +3,7 @@
         <title>Form Handling</title>
     </head>
     <body>
-        <h3>Anda sudah bergabung bersama kami :D</h3>
-        <p><?php echo anchor('formhandling', 'Coba Lagi !'); ?></p>
+        <h3>Anda berhasil menyimpan data :D</h3>
+        <p><?php echo anchor('news', 'Coba Lagi !'); ?></p>
     </body>
 </html>
